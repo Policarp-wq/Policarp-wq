@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene
 - 👀 I’m interested in playing games on my PC
-- 🌱 I’m currently learning C++ and java (Android studio)
+- 🌱 I’m currently learning C++ and C#
 
 
 <!---
