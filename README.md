@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Eugene
-- 👀 I’m interested in playing games on my PC
-- 🌱 I’m currently learning C++, Java and C#
-- Who reads it lol?
+-Name's Eugene
 
 <!---
 Policarp-wq/Policarp-wq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
